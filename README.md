@@ -1,14 +1,13 @@
 # Simple Calculator Android
 
-Robust, installable Android version of a simple calculator app.
+Robust, installable Android version of the simple calculator.
 
 Built with HTML/CSS/JS and Capacitor for native Android packaging.
 
 ## Features
 - Basic arithmetic operations
-- Clear display
-- Mobile-optimized UI
-- Error handling for invalid expressions
+- Clear, operators, equals
+- Dark theme, mobile-friendly
 
 ## Building the APK
 
